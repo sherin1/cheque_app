@@ -18,4 +18,4 @@ Below are the Technologies and libraries used
 - Since we have added the cheques data in data.json file, we need one webserver to run this app.
 - Clone all the files from repository and copy that folder in web root of the webserver
 - Run the webserver
-- Open the url "http://localhost/cheques_app/index.html"
+- Open the url "http://localhost/cheque_app/index.html"
